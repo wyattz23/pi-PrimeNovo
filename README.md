@@ -1,3 +1,9 @@
+# NATNOVO2
+
+This is the official repo for the paper: **$\pi$-PrimeNovo: An Accurate and Efficient  Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**
+![prime](./assets/Primenovo.png)
+
+
 ## Environment Setup
 
 Note: we have developed our algorithm in CentOS Linux Version 7, other OS system need to check compability themselves. 
