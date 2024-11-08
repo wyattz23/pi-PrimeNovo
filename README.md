@@ -1,7 +1,7 @@
 # NATNOVO2
 
 This is the official repo for the paper: **$\pi$-PrimeNovo: An Accurate and Efficient  Non-Autoregressive Deep Learning Model for De Novo Peptide Sequencing**
-![prime](./assets/Primenovo.png)
+![prime](./assets/PrimeNovo.png)
 
 
 ## Environment Setup
