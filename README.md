@@ -6,7 +6,7 @@ This is the official repo for the paper: **$\pi$-PrimeNovo: An Accurate and Effi
 
 ![prime](./assets/PrimeNovo.png)
 
-
+1
 
 ## Environment Setup
 
